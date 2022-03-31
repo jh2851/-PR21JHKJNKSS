@@ -1,5 +1,5 @@
 ### OPIS PODATKOV
-Podatke bomo pridobili s speletnega mesta www.kaggle.com podatki prikazujejo zamudo potniških vlakov v Sloveniji v obdobju od januarja 2020 do oktobra 2021. Podatki so v obliki csv in jason datotek.
+Podatke bomo pridobili s speletnega mesta www.kaggle.com podatki prikazujejo zamudo potniških vlakov v Sloveniji v obdobju od januarja 2020 do oktobra 2021. Podatki so v obliki csv in json datotek.
 
 Zajeti podatko so:
 - časovni žig
