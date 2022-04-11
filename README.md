@@ -57,7 +57,7 @@ največ avgusta in septembra. Ti rezultati so neskladni z našimi pričakovanji,
 saj smo predhodno ocenili, da bo največ zamud v zimskem delu meseca zaradi 
 potencialnih neugodnih vremenskih razmer.
 
-![vsi_delays](./grafi/vsi_delays.png?raw=true)
+![vsi_delays](./grafi/Vsi_delays.png?raw=true)
 
 
 Drugi diagram prikazuje število zamud tipa D (zamude v odhodu) glede na posamezen 
