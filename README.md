@@ -48,3 +48,26 @@ oznaka | Opis      |
 D | zamuda ob odhodu |
 A | zamuda ob prihodu |
 E | pričakovana zamuda |
+
+
+
+![vsi_delays](./Grafi/vsi_delays.png?raw=true)
+
+![D_delays](./Grafi/D_delays.png?raw=true)
+
+![a_delays](./Grafi/a_delays.png?raw=true)
+
+![e_delays](./Grafi/e_delays.png?raw=true)
+
+![vsi_delays_bolsi](./Grafi/vsi_delays_bolsi.png?raw=true)
+
+![delays_a_vlaki](./Grafi/delays_a_vlaki.png?raw=true)
+
+![delays_d_vlaki](./Grafi/delays_d_vlaki.png?raw=true)
+
+![delays_e_vlaki](./Grafi/delays_e_vlaki.png?raw=true)
+
+![postaje_delays](./Grafi/postaje_delays.png?raw=true)
+
+
+
