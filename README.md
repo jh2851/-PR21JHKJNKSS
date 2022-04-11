@@ -57,21 +57,21 @@ največ avgusta in septembra. Ti rezultati so neskladni z našimi pričakovanji,
 saj smo predhodno ocenili, da bo največ zamud v zimskem delu meseca zaradi 
 potencialnih neugodnih vremenskih razmer.
 
-![vsi_delays](./Grafi/vsi_delays.png?raw=true)
+![vsi_delays](./grafi/vsi_delays.png?raw=true)
 
 
 Drugi diagram prikazuje število zamud tipa D (zamude v odhodu) glede na posamezen 
 mesec v letu. Rezultati so zelo podobni tistim na prvem grafu, le da je bilo največ 
 zamud tipa D v mesecu septembru, najmanj pa v mesecih november in december.
 
-![D_delays](./Grafi/D_delays.png?raw=true)
+![D_delays](./grafi/D_delays.png?raw=true)
 
 
 Tretji diagram prikazuje število zamud tipa A (zamude v prihodu) glede na posamezen 
 mesec v letu. Največ zamud tipa A je bilo meseca avgusta, najmanj pa novembra 
 in decembra.
 
-![a_delays](./Grafi/a_delays.png?raw=true)
+![a_delays](./grafi/a_delays.png?raw=true)
 
 
 Četrti diagram prikazuje število zamud tipa E (pričakovane zamude) glede na posamezen 
@@ -79,14 +79,14 @@ mesec v letu. Tudi tukaj prevladujejo zamude v mesecu avgustu, je pa njihova
 količina nekoliko nižja v septembru, kot pri ostalih zamudah. Opazno nižje so tudi 
 v mesecih november in december.
 
-![e_delays](./Grafi/e_delays.png?raw=true)
+![e_delays](./grafi/e_delays.png?raw=true)
 
 
 Ta slika prikazuje še črtni diagram za boljšo predstavo o razlikah med posameznimi 
 tipi zamud. Opazimo lahko, da izrazito prevladujejo zamude v odhodu, med tem ko so 
 ostali tipi zamud opazno nižji.
 
-![vsi_delays_bolsi](./Grafi/vsi_delays_bolsi.png?raw=true)
+![vsi_delays_bolsi](./grafi/vsi_delays_bolsi.png?raw=true)
 
 
 Slika prikazuje količino zamud tipa D glede na različne modele vlakov. V zamudah 
@@ -94,7 +94,7 @@ tipa D močno prevladujesta vlak tipa LPV in LP, ki pa spadata pod počasnejše
 lokalne vlake. Zelo mogoče je, da so rezultati takšni kot so, ker je 
 takih potniških vlakov največ.
 
-![delays_a_vlaki](./Grafi/delays_a_vlaki.png?raw=true)
+![delays_a_vlaki](./grafi/delays_a_vlaki.png?raw=true)
 
 
 Slika prikazuje količino zamud tipa A glede na različne modele vlakov. 
@@ -102,18 +102,18 @@ Razvidno je, da je največ zamud pri tipu vlaka EC, ta pa spada v skupino
 internacionalnih vlakov. Visoke količine zamud so opazne tudi pri vlakih LP in LPV. 
 Najmanj zamud povzročajo internacionalni vlak MO in hitri vlak ICS.
 
-![delays_d_vlaki](./Grafi/delays_d_vlaki.png?raw=true)
+![delays_d_vlaki](./grafi/delays_d_vlaki.png?raw=true)
 
 
 Slika prikazuje količino zamud tipa E glede na različne modele vlakov. 
 Najbolj prevladujejo vlaki tipa LP in LPV
 
-![delays_e_vlaki](./Grafi/delays_e_vlaki.png?raw=true)
+![delays_e_vlaki](./grafi/delays_e_vlaki.png?raw=true)
 
 
 Tortni diagram prikazuje 10 glavnih postaj z največjimi količinami zamud.
 
-![postaje_delays](./Grafi/postaje_delays.png?raw=true)
+![postaje_delays](./grafi/postaje_delays.png?raw=true)
 
 
 
