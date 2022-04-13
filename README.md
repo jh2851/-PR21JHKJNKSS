@@ -50,7 +50,7 @@ A | zamuda ob prihodu |
 E | pričakovana zamuda |
 
 
-Prva tabela prikazuje število zamud glede na posamezen mesec v letu. 
+Prvi diagram prikazuje število zamud glede na posamezen mesec v letu. 
 Vertikalna os prikazuje količino zamud, druga pa mesec v letu označen z številko. 
 Opazno je, da je več zamud v poletnih in zgodnjih jesenskih mesecih in sicer 
 največ avgusta in septembra. Ti rezultati so neskladni z našimi pričakovanji, 
@@ -82,14 +82,14 @@ v mesecih november in december.
 ![e_delays](./grafi/e_delays.png?raw=true)
 
 
-Ta slika prikazuje še črtni diagram za boljšo predstavo o razlikah med posameznimi 
+Peta slika prikazuje še črtni diagram za boljšo predstavo o razlikah med posameznimi 
 tipi zamud. Opazimo lahko, da izrazito prevladujejo zamude v odhodu, med tem ko so 
 ostali tipi zamud opazno nižji.
 
 ![vsi_delays_bolsi](./grafi/vsi_delays_bolsi.png?raw=true)
 
 
-Slika prikazuje količino zamud tipa D glede na različne modele vlakov. V zamudah 
+Diagram prikazuje količino zamud tipa D glede na različne modele vlakov. V zamudah 
 tipa D močno prevladujesta vlak tipa LPV in LP, ki pa spadata pod počasnejše 
 lokalne vlake. Zelo mogoče je, da so rezultati takšni kot so, ker je 
 takih potniških vlakov največ.
@@ -97,7 +97,7 @@ takih potniških vlakov največ.
 ![delays_a_vlaki](./grafi/delays_a_vlaki.png?raw=true)
 
 
-Slika prikazuje količino zamud tipa A glede na različne modele vlakov. 
+Diagram prikazuje količino zamud tipa A glede na različne modele vlakov. 
 Razvidno je, da je največ zamud pri tipu vlaka EC, ta pa spada v skupino 
 internacionalnih vlakov. Visoke količine zamud so opazne tudi pri vlakih LP in LPV. 
 Najmanj zamud povzročajo internacionalni vlak MO in hitri vlak ICS.
@@ -105,7 +105,7 @@ Najmanj zamud povzročajo internacionalni vlak MO in hitri vlak ICS.
 ![delays_d_vlaki](./grafi/delays_d_vlaki.png?raw=true)
 
 
-Slika prikazuje količino zamud tipa E glede na različne modele vlakov. 
+Diagram prikazuje količino zamud tipa E glede na različne modele vlakov. 
 Najbolj prevladujejo vlaki tipa LP in LPV
 
 ![delays_e_vlaki](./grafi/delays_e_vlaki.png?raw=true)
